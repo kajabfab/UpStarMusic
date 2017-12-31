@@ -11,7 +11,12 @@ const Artist = require('../models/artist');
 module.exports = (criteria, sortProperty, offset = 0, limit = 20) => {
 
     let searchObject = {};
-    searchObject.name = {$regex: criteria.name};
+
+    if (criteria.name !== undefined) {
+        searchObject.$text = {
+            $search: criteria.name
+        };
+    }
     if (criteria.age !== undefined) {
         searchObject.age = {
             $gte: criteria.age.min,
