@@ -39,7 +39,7 @@ module.exports = (criteria, sortProperty, offset = 0, limit = 20) => {
 
     return Promise.all([
             query,
-            Artist.count()
+            Artist.find(searchObject).count()
         ])
         .then((result) => {
             return {
