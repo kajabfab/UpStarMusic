@@ -17,8 +17,8 @@
           <file leaf-file-name="FindArtist.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/database/queries/FindArtist.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+                <state relative-caret-position="162">
+                  <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -28,7 +28,7 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="album.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="album.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/database/models/album.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="234">
@@ -38,7 +38,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="artist.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="artist.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/database/models/artist.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="360">
@@ -60,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/database/models/artist.js" />
         <option value="$PROJECT_DIR$/database/models/album.js" />
+        <option value="$PROJECT_DIR$/database/queries/FindArtist.js" />
       </list>
     </option>
   </component>
@@ -202,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514694168809</updated>
-      <workItem from="1514694170538" duration="2520000" />
+      <workItem from="1514694170538" duration="3982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2520000" />
+    <option name="totallyTimeSpent" value="3982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="27" width="940" height="1053" extended-state="4" />
@@ -266,10 +267,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/database/queries/FindArtist.js">
+    <entry file="file://$PROJECT_DIR$/database/models/album.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="234">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -282,10 +283,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/models/album.js">
+    <entry file="file://$PROJECT_DIR$/database/queries/FindArtist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="162">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding />
         </state>
       </provider>
